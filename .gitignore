@@ -10,6 +10,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 nbproject/private/
 build/
@@ -18,3 +19,5 @@ dist/
 nbdist/
 nbactions.xml
 .nb-gradle/
+=======
+>>>>>>> 6b933bfac8f488e8fd3f25fcb92413d053c4e327
